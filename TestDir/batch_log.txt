@@ -1,0 +1,42 @@
+Starting Batch script... 
+Directory 'TestDir' created. 
+C:\Users\9u830\OneDrive\Documents\Northeast\Spring_semester_2025\Scripting_language\Project
+Current Path: .
+Files: []
+
+Current Path: .\asn
+Files: ['asn_data.txt']
+
+Current Path: .\asOrganization
+Files: ['asOrganization_data.txt']
+
+Current Path: .\city
+Files: ['city_data.txt']
+
+Current Path: .\clientIp
+Files: ['clientIp_data.txt']
+
+Current Path: .\colo
+Files: ['colo_data.txt']
+
+Current Path: .\country
+Files: ['country_data.txt']
+
+Current Path: .\hostname
+Files: ['hostname_data.txt']
+
+Current Path: .\httpProtocol
+Files: ['httpProtocol_data.txt']
+
+Current Path: .\latitude
+Files: ['latitude_data.txt']
+
+Current Path: .\longitude
+Files: ['longitude_data.txt']
+
+Current Path: .\postalCode
+Files: ['postalCode_data.txt']
+
+Current Path: .\state
+Files: ['state_data.txt']
+
