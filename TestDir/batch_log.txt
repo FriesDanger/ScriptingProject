@@ -1,42 +1,62 @@
+Current date and time: Fri 04/18/2025 12:08:32.68
 Starting Batch script... 
 Directory 'TestDir' created. 
-C:\Users\9u830\OneDrive\Documents\Northeast\Spring_semester_2025\Scripting_language\Project
-Current Path: .
+ 
+
+
+
+
+Current directory where the script's source is C:\Users\9u830\OneDrive\Documents\Northeast\Spring_semester_2025\Scripting_language\Project\tracing_info
+Current Path: C:\Users\9u830\OneDrive\Documents\Northeast\Spring_semester_2025\Scripting_language\Project\tracing_info
+Directories: ['asn', 'asOrganization', 'city', 'clientIp', 'colo', 'country', 'hostname', 'httpProtocol', 'latitude', 'longitude', 'postalCode', 'state']
 Files: []
 
-Current Path: .\asn
+Current Path: C:\Users\9u830\OneDrive\Documents\Northeast\Spring_semester_2025\Scripting_language\Project\tracing_info\asn
+Directories: []
 Files: ['asn_data.txt']
 
-Current Path: .\asOrganization
+Current Path: C:\Users\9u830\OneDrive\Documents\Northeast\Spring_semester_2025\Scripting_language\Project\tracing_info\asOrganization
+Directories: []
 Files: ['asOrganization_data.txt']
 
-Current Path: .\city
+Current Path: C:\Users\9u830\OneDrive\Documents\Northeast\Spring_semester_2025\Scripting_language\Project\tracing_info\city
+Directories: []
 Files: ['city_data.txt']
 
-Current Path: .\clientIp
+Current Path: C:\Users\9u830\OneDrive\Documents\Northeast\Spring_semester_2025\Scripting_language\Project\tracing_info\clientIp
+Directories: []
 Files: ['clientIp_data.txt']
 
-Current Path: .\colo
+Current Path: C:\Users\9u830\OneDrive\Documents\Northeast\Spring_semester_2025\Scripting_language\Project\tracing_info\colo
+Directories: []
 Files: ['colo_data.txt']
 
-Current Path: .\country
+Current Path: C:\Users\9u830\OneDrive\Documents\Northeast\Spring_semester_2025\Scripting_language\Project\tracing_info\country
+Directories: []
 Files: ['country_data.txt']
 
-Current Path: .\hostname
+Current Path: C:\Users\9u830\OneDrive\Documents\Northeast\Spring_semester_2025\Scripting_language\Project\tracing_info\hostname
+Directories: []
 Files: ['hostname_data.txt']
 
-Current Path: .\httpProtocol
+Current Path: C:\Users\9u830\OneDrive\Documents\Northeast\Spring_semester_2025\Scripting_language\Project\tracing_info\httpProtocol
+Directories: []
 Files: ['httpProtocol_data.txt']
 
-Current Path: .\latitude
+Current Path: C:\Users\9u830\OneDrive\Documents\Northeast\Spring_semester_2025\Scripting_language\Project\tracing_info\latitude
+Directories: []
 Files: ['latitude_data.txt']
 
-Current Path: .\longitude
+Current Path: C:\Users\9u830\OneDrive\Documents\Northeast\Spring_semester_2025\Scripting_language\Project\tracing_info\longitude
+Directories: []
 Files: ['longitude_data.txt']
 
-Current Path: .\postalCode
+Current Path: C:\Users\9u830\OneDrive\Documents\Northeast\Spring_semester_2025\Scripting_language\Project\tracing_info\postalCode
+Directories: []
 Files: ['postalCode_data.txt']
 
-Current Path: .\state
+Current Path: C:\Users\9u830\OneDrive\Documents\Northeast\Spring_semester_2025\Scripting_language\Project\tracing_info\state
+Directories: []
 Files: ['state_data.txt']
 
+Output logged to C:\Users\9u830\OneDrive\Documents\Northeast\Spring_semester_2025\Scripting_language\Project\tracing_info\sunrise_and_sunset\logfile.txt
